@@ -1,0 +1,282 @@
+.bod{
+    border: 1px solid;
+    width: 1000px;
+    margin: auto;
+}
+.log{
+    width: 3%;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.shape{
+    margin-top: -50px;
+    position: absolute;
+    padding-left: 490px;
+  }
+.navi{
+    display: flex;
+    justify-content: flex-end;  
+    margin-right: 60px; 
+}
+.pi{
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-top: 6px;
+    text-decoration: none;
+}
+.pii{
+    border: 1px solid;
+    text-decoration: none;
+    color: white;
+    border: none;
+    width: 75px;
+    height: 28px;
+    padding-top: 9px;
+    text-align: center;
+    background-color: #5D5DFF ;
+}
+.txt{
+    text-align: center;
+}
+.txxt{
+    text-align: center;
+    width: 450px;
+    margin: auto;
+}
+.bigbtn{
+    text-align: center;
+}
+.btn{
+    background-color: #5D5DFF;
+    width: 120px;
+    height: 35px;
+    border: none;
+    margin-right: 4px;
+}
+.btn1{
+    background-color: #33363A;
+    width: 100px;
+    height: 32px;
+    border: none;
+}
+.image{
+    margin: auto;
+    width: 700px;
+    margin-left: 150px;
+}
+.h2{
+    text-align: center;
+}
+.txtt{
+    text-align: center;
+    width: 550px;
+    margin: auto;
+}
+.imgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+.bib{
+    text-align: center;
+}
+.bigstar{
+    text-align: center;
+    
+}
+.bigstar1{
+    text-align: center;
+}
+.bigstar2{
+    text-align: center;
+}
+.bigstar3{
+    text-align: center;
+}
+.bigstar4{
+    text-align: center;
+ }
+.star{
+    width: 40px;  
+}
+.star1{
+    width: 40px;
+}
+.star2{
+    width: 40px;
+}
+.star3{
+    width: 40px;
+}
+.star4{
+    width: 40px;
+}
+.star5{
+    width: 40px;
+}
+.txt1{
+    width: 300px;
+    text-align: justify;
+}
+.txt2{
+    width: 300px;
+    text-align: justify;
+}
+.txt3{
+    width: 300px;
+    text-align: justify;
+}
+.txt4{
+    width: 300px;
+    text-align: justify;
+}
+.txt5{
+    width: 270px;
+    text-align: justify;
+}
+.txt6{
+    width: 300px;
+    text-align: justify;
+}
+.leg{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.btn2{
+    background-color: #C6F6D5;
+    border-radius: 12px;
+    border: none;
+    height: 25px;
+}
+.bill{
+    text-align: center;
+}
+.bi{
+    text-align: center;
+}
+.piii{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+.more{
+    font-style: italic;
+}
+.more1{
+    width: 400px;
+}
+
+.bigmore{
+    margin-left: 510px;
+    margin-top: -270px;
+}
+.more2{
+    font-style: italic;
+}
+.more3{
+    width: 400px;
+}
+.tion{
+    width: 400px;
+    height: 255px; 
+     position: absolute;
+    left: 739px;
+    text-align: end ;
+}
+.tion2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.tion3{
+    width: 400px;
+    height: 255px;
+    
+}
+.tion4{
+    width: 400px;
+    height: 255px;
+    margin-top: 50px;
+}
+.more4{
+    font-style: italic;
+}
+.more5{
+    width: 400px;
+}
+.bigmore1{
+    margin-top: 50px;
+}
+.late{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.dont{
+    text-align: center;
+}
+.sum{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+.it{
+    display: flex;
+    flex-wrap: wrap;
+}
+.hen{
+    width: 260px;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+.hen1{
+    width: 260px;
+    margin-right: 10px;
+}
+.hen2{
+    width: 260px;
+    margin-right: 10px;
+}
+.stay{
+    border: 1px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 80px;
+    background-color: #5D5DFF;
+}
+.in{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.loop{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    
+}
+.loop2{
+    margin-left: 30px;
+    height: 30px;
+    width: 200px;
+    background-color: #4B4ACF;
+    color: white;
+border: none;
+}
+.loop3{
+    margin-left: 5px;
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: none;
+}
